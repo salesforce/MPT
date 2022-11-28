@@ -1,6 +1,6 @@
 datasets==2.3.2
 protobuf==3.20.0
-numpy==1.19.2
+numpy==1.22.0
 tqdm==4.62.3
 transformers==4.20.1
 seqeval==1.2.2
