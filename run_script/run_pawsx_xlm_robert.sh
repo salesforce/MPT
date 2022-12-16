@@ -1,11 +1,11 @@
 export TASK_NAME=glue
 export DATASET_NAME=paws-x
 
-bs=16  # xlm-r-large: 32
+bs=32  # xlm-r-large: 32
 lr=$3
 dropout=0.1
 psl=$5
-epoch=40   ## orginal: 40
+epoch=30   ## orginal: 40
 model=$1
 GPU=$2
 #seed=11

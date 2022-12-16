@@ -1,7 +1,7 @@
 export TASK_NAME=qa
 export DATASET_NAME=squad
 
-bs=4  #xlm-r-large: 8
+bs=8  #xlm-r-large: 8
 #lr=5e-3
 dropout=0.2
 psl=$4

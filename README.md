@@ -14,7 +14,7 @@ Following are some scripts that can be used to replicate experiments. It is bett
 ### XNLI
 * **prompt tuning Train**
 ```
-sh run_script/run_mnli_xlm_robert.sh xlm-roberta-large 1 0.001 32 1
+sh run_script/run_mnli_xlm_robert.sh xlm-roberta-large 0 0.001 32 1
 ```
 * **Corss-Lingual Evluation, prefix length  32**
 ```
@@ -25,7 +25,7 @@ sh run_script/run_xnli_evalonly.sh checkpoints/mnli-xlm-roberta-large-32-0.001/b
 ### Xquad
 * **prompt tuning Train**
 ```
-sh run_script/run_squad_xlm_roberta.sh xlm-roberta-large 0.005 1  16
+sh run_script/run_squad_xlm_roberta.sh xlm-roberta-large 0.005 0  16 1
 ```
 
 * **Corss-Lingual Evluation**
@@ -38,7 +38,7 @@ sh run_script/run_xquad_evalonly.sh checkpoints/squad/xlm-checkpoint-112000
 ### pawsx
 * **prompt tuning Train**
 ```
-sh run_script/run_pawsx_xlm_robert.sh xlm-roberta-large 6 0.005 16
+sh run_script/run_pawsx_xlm_robert.sh xlm-roberta-large 0 0.005 1  16
 ```
 
 * **Corss-Lingual Evluation**
@@ -49,7 +49,7 @@ sh run_script/run_pawsx_evalonly.sh checkpoints/paws-x-xlm-roberta-large-16-0.00
 ### Udpos
 * **prompt tuning train**
 ```
-sh run_script/run_pawsx_xlm_robert.sh xlm-roberta-large 6 0.001 16
+sh run_script/run_pos_xlm.sh xlm-roberta-large 0 0.01 16 1
 ```
 
 * **Corss-Lingual Evluation**
