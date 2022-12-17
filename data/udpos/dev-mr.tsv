@@ -1,0 +1,445 @@
+थापा	NOUN
+मार	VERB
+!	PUNCT
+
+"	PUNCT
+त्या	DET
+तुकड्याचे	NOUN
+का	ADV
+कोणी	PRON
+हजार	NUM
+रुपये	NOUN
+देईल	VERB
+?	PUNCT
+"	PUNCT
+
+"	PUNCT
+देवाला	NOUN
+माहीत	ADV
+आहे	AUX
+!	PUNCT
+"	PUNCT
+
+"	PUNCT
+देव	NOUN
+दूर	ADJ
+आहे	AUX
+आभाळात	NOUN
+.	PUNCT
+"	PUNCT
+
+येथे	ADV
+तुम्ही	PRON
+आम्ही	PRON
+आहोत	AUX
+.	PUNCT
+
+कागदपत्रं	NOUN
+काय	PRON
+सांगतात	VERB
+?	PUNCT
+
+"	PUNCT
+हे	DET
+म्हातारे	ADJ
+शेतकरी	NOUN
+साक्षीदार	NOUN
+का	CCONJ
+खोटे	ADJ
+सांगतात	VERB
+?	PUNCT
+"	PUNCT
+वकील	NOUN
+म्हणाला	VERB
+.	PUNCT
+
+न्यायाधीशाने	NOUN
+भीमाची	PROPN
+मालकी	NOUN
+काढून	VERB
+घेतली	VERB
+.	PUNCT
+
+केशवचंद्राचीच	PROPN
+जमीन	NOUN
+आहे	AUX
+,	PUNCT
+असा	SCONJ
+त्याने	PRON
+निर्णय	NOUN
+दिला	VERB
+.	PUNCT
+
+भीमा	PROPN
+बाहेर	ADV
+येऊन	VERB
+आकाशाकडे	NOUN
+हात	NOUN
+करून	VERB
+म्हणाला	VERB
+,	PUNCT
+"	PUNCT
+तुझ्या	PRON
+जगात	NOUN
+देवा	NOUN
+,	PUNCT
+का	ADV
+न्याय	NOUN
+नाही	AUX
+?	PUNCT
+"	PUNCT
+
+"	PUNCT
+न्याय	NOUN
+आमच्या	PRON
+हातात	NOUN
+असतो	AUX
+,	PUNCT
+भीमा	PROPN
+.	PUNCT
+"	PUNCT
+
+"	PUNCT
+देवबीव	NOUN
+सत्तेजवळ	NOUN
+असतो	AUX
+,	PUNCT
+संपत्तीजवळ	NOUN
+असतो	AUX
+.	PUNCT
+"	PUNCT
+वकील	NOUN
+म्हणाला	VERB
+.	PUNCT
+
+भीमा	PROPN
+दुःखाने	NOUN
+घरी	ADV
+गेला	VERB
+.	PUNCT
+
+तो	PRON
+कपाळाला	NOUN
+हात	NOUN
+लावून	VERB
+बसला	VERB
+.	PUNCT
+
+"	PUNCT
+काय	PRON
+लागला	VERB
+निकाल	NOUN
+?	PUNCT
+"	PUNCT
+बायकोने	NOUN
+विचारले	VERB
+.	PUNCT
+
+"	PUNCT
+आपण	PRON
+चोर	NOUN
+ठरलो	VERB
+नि	CCONJ
+चोर	NOUN
+मालक	NOUN
+ठरला	VERB
+.	PUNCT
+"	PUNCT
+
+"	PUNCT
+आपण	PRON
+उद्यापासून	NOUN
+मजूर	NOUN
+झालो	VERB
+.	PUNCT
+"	PUNCT
+तो	PRON
+दुःखाने	NOUN
+बोलला	VERB
+.	PUNCT
+
+त्या	DET
+गावातील	NOUN
+सारे	ADJ
+गोरगरीब	NOUN
+केशवचंद्रांच्या	PROPN
+नावे	NOUN
+खडे	NOUN
+फोडीत	VERB
+होते	AUX
+.	PUNCT
+
+परंतु	CCONJ
+करतात	VERB
+काय	PRON
+?	PUNCT
+
+या	DET
+प्रांताचा	NOUN
+राजा	NOUN
+दौऱ्यावर	NOUN
+निघाला	VERB
+होता	AUX
+.	PUNCT
+
+केशवचंद्राने	PROPN
+वशिला	NOUN
+लावून	VERB
+राजा	NOUN
+आपल्या	PRON
+गावी	NOUN
+येईल	VERB
+असे	SCONJ
+केले	VERB
+.	PUNCT
+
+गाव	NOUN
+शृंगारण्यात	VERB
+आला	AUX
+आणि	CCONJ
+एक	DET
+सुंदर	ADJ
+सभामंडप	NOUN
+उभारण्यात	VERB
+आला	AUX
+.	PUNCT
+
+तेथे	ADV
+राजासाठी	NOUN
+सिंहासन	NOUN
+तयार	ADV
+करण्यात	VERB
+आले	VERB
+होते	AUX
+.	PUNCT
+
+राजाच्या	NOUN
+सत्कारसमारंभासाठी	NOUN
+आजूबाजूच्या	NOUN
+पाचपन्नास	NUM
+कोसांतील	NOUN
+शेकडो	ADJ
+मोठमोठी	ADJ
+माणसे	NOUN
+येणार	VERB
+होती	AUX
+.	PUNCT
+
+सरदार	NOUN
+-	PUNCT
+जहागीरदार	NOUN
+,	PUNCT
+सावकार	NOUN
+,	PUNCT
+व्यापारी	NOUN
+येणार	VERB
+होते	AUX
+.	PUNCT
+
+तेथे	ADV
+फक्त	ADJ
+गरिबांना	NOUN
+येण्यास	VERB
+बंदी	NOUN
+होती	AUX
+.	PUNCT
+
+केशवचंद्राला	PROPN
+गावातील	NOUN
+लोकांची	NOUN
+भीती	NOUN
+वाटत	VERB
+होती	AUX
+.	PUNCT
+
+राजाच्या	NOUN
+कानावर	NOUN
+ते	PRON
+कागाळ्या	NOUN
+घालतील	VERB
+,	PUNCT
+अशी	SCONJ
+त्याला	PRON
+शंका	NOUN
+होती	AUX
+.	PUNCT
+
+म्हणून	SCONJ
+त्याने	PRON
+सर्वांना	NOUN
+ताकीद	NOUN
+दिली	VERB
+की	SCONJ
+,	PUNCT
+त्या	DET
+दिवशी	NOUN
+घराबाहेर	NOUN
+फिरकू	VERB
+नका	AUX
+.	PUNCT
+
+राजा	NOUN
+जाईपर्यंत	VERB
+आपापल्या	PRON
+झोपड्यांत	NOUN
+बसून	VERB
+राहा	VERB
+.	PUNCT
+
+सभामंडप	NOUN
+भरून	VERB
+गेला	VERB
+होता	AUX
+.	PUNCT
+
+आजूबाजूच्या	NOUN
+पाचपन्नास	NUM
+कोसांतील	NOUN
+साऱ्या	ADJ
+संपत्तीचे	NOUN
+तेथे	ADV
+जणू	ADV
+प्रदर्शन	NOUN
+होते	AUX
+.	PUNCT
+
+नटूनथटून	ADV
+श्रीमंत	ADJ
+मंडळी	NOUN
+आली	VERB
+होती	AUX
+.	PUNCT
+
+हां	INTJ
+,	PUNCT
+हे	PRON
+बघा	VERB
+घोडेस्वार	NOUN
+!	PUNCT
+
+आणि	CCONJ
+वाद्ये	NOUN
+वाजू	VERB
+लागली	AUX
+.	PUNCT
+
+जयघोष	NOUN
+कानावर	NOUN
+आले	VERB
+.	PUNCT
+
+सारे	ADJ
+शेतकरी	NOUN
+भीतीने	NOUN
+घरात	NOUN
+बसून	VERB
+आहेत	AUX
+;	PUNCT
+परंतु	CCONJ
+भीमा	PROPN
+कुठे	ADV
+आहे	AUX
+?	PUNCT
+
+गावाबाहेर	NOUN
+एक	DET
+जुने	ADJ
+देवीचे	NOUN
+मंदिर	NOUN
+होते	AUX
+.	PUNCT
+
+त्या	DET
+मंदिरात	NOUN
+एक	DET
+प्रचंड	ADJ
+घंटा	NOUN
+होती	AUX
+.	PUNCT
+
+गावात	NOUN
+कोणी	PRON
+मेले	VERB
+,	PUNCT
+तर	SCONJ
+ती	DET
+घंटा	NOUN
+वाजविण्यात	VERB
+येई	AUX
+.	PUNCT
+
+भीमा	PROPN
+आज	ADV
+त्या	DET
+मंदिरात	NOUN
+गेला	VERB
+आणि	CCONJ
+ती	DET
+घंटा	NOUN
+दाणदाण	ADV
+वाजवू	VERB
+लागला	AUX
+.	PUNCT
+
+"	PUNCT
+कोण	PRON
+मेले	ADJ
+?	PUNCT
+"	PUNCT
+म्हाताऱ्या	ADJ
+गुरवाने	NOUN
+विचारले	VERB
+.	PUNCT
+
+"	PUNCT
+न्याय	NOUN
+मेला	VERB
+.	PUNCT
+"	PUNCT
+भीमा	PROPN
+म्हणाला	VERB
+.	PUNCT
+
+"	PUNCT
+खरेच	NOUN
+,	PUNCT
+न्याय	NOUN
+उरला	VERB
+नाही	AUX
+.	PUNCT
+"	PUNCT
+देवीचा	NOUN
+तो	DET
+पुजारी	NOUN
+म्हणाला	VERB
+.	PUNCT
+
+घंटेचा	NOUN
+आवाज	NOUN
+ऐकून	VERB
+देवीच्या	NOUN
+देवळाकडे	NOUN
+शेतकरी	NOUN
+येऊ	VERB
+लागले	AUX
+,	PUNCT
+'	PUNCT
+कोण	PRON
+मेले	VERB
+'	PUNCT
+म्हणून	VERB
+विचारू	VERB
+लागले	AUX
+.	PUNCT
+
+'	PUNCT
+न्याय	NOUN
+मेला	VERB
+'	PUNCT
+असे	SCONJ
+जो	PRON
+तो	PRON
+उत्तर	NOUN
+देऊ	VERB
+लागला	AUX
+.	PUNCT

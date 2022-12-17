@@ -47,6 +47,16 @@ sh run_script/run_pawsx_evalonly.sh checkpoints/paws-x-xlm-roberta-large-16-0.00
 ```
 
 ### Udpos
+* **data**
+The processed Universal Dependencies 2.2 data is also provided in the folder `data/udpos`. Please cite the original dataset paper if you use it.
+```
+@article{nivre2018universal,
+  title={Universal Dependencies 2.2},
+  author={Nivre, Joakim and Abrams, Mitchell and Agi{\'c}, {\v{Z}}eljko and Ahrenberg, Lars and Antonsen, Lene and Aranzabe, Maria Jesus and Arutie, Gashaw and Asahara, Masayuki and Ateyah, Luma and Attia, Mohammed and others},
+  year={2018}
+}
+```
+
 * **prompt tuning train**
 ```
 sh run_script/run_pos_xlm.sh xlm-roberta-large 0 0.01 16 1
